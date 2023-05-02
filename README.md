@@ -1,4 +1,5 @@
 # Bike_Chains_Analysis
 Data Analysis
-![1](https://user-images.githubusercontent.com/94745919/235804213-38770d74-7dd8-45cc-a1e3-e48f8e2275c9.png)
-
+<p align="center">
+  <img width="460" height="300" src="file:///C:/Users/Abdo%20Sadk/Desktop/Brown%20Vintage%20Sport%20Bike%20Logo/1.png">
+</p>
