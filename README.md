@@ -1,3 +1,4 @@
 # Bike_Chains_Analysis
 Data Analysis
-[embed]file:///C:/Users/Abdo%20Sadk/Desktop/TableauDashboard.pdf[/embed]
+</br>
+![Dashboard 1](https://user-images.githubusercontent.com/94745919/235969946-6c4f1baa-9a3a-4584-b9c0-61f06cbef167.png)
