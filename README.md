@@ -1,9 +1,9 @@
 # Bike_Chains_Analysis
 Data Analysis
 ## Description
-the goal of this project is to creat an executive inter active dashboard that analsis the data, give insites about the data and help in decision
+The goal of this project is to create an executive interactive dashboard that analyzes the data from 2016 to 2018 and gives insights into the data that help in decision-making which makes the company more profitable 
 </br>
-this is a data analysis project journey starting with data entry by inserting creating the tables and insearting the data in them useing SQL Server then query the wanted data form the database then connect the query to excel and tableau to make the dashboards 
+This is a data analysis project journey starting with data entry by inserting creating the tables and inserting the data in them using SQL Server then querying the wanted data from the database then connecting the query to Excel and Tableau to make the dashboards 
 </br>
 ## Tableau Dashboard 
 ![Dashboard 1](https://user-images.githubusercontent.com/94745919/235969946-6c4f1baa-9a3a-4584-b9c0-61f06cbef167.png)
