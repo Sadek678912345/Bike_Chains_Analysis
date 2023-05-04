@@ -22,6 +22,7 @@ the dashboard answers theses questions:
 * Who are the 10 most valued customers according to the revenues
 </br>
 ## Tableau Dashboard 
+</br>
 ![Dashboard 1](https://user-images.githubusercontent.com/94745919/235969946-6c4f1baa-9a3a-4584-b9c0-61f06cbef167.png)
 </br>
 Dashboard link:https://public.tableau.com/app/profile/abdelrhaman.mahmoud.sadek/viz/BikesCompanyDashboard/Dashboard1#1
