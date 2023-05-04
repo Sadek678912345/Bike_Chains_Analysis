@@ -12,6 +12,8 @@ The two dashboards share the same analysis process but **Tableau** give more spa
 ## Execl Dashboard
 ![Screenshot (512)](https://user-images.githubusercontent.com/94745919/236067051-8f8d7ef6-31b7-4efb-9450-2221945ae34a.png)
 </br>
+The executive team can easily select which year, state or store the want to have insights about and click on it\them
+</br>
 the dashboard answers theses questions:
 * What is the revenues in each year 
 * What is the revenues in each month of the years
@@ -20,9 +22,6 @@ the dashboard answers theses questions:
 * Which category is more sold than others 
 * Who are the top 10 salers to make revenue  to the company 
 * Who are the 10 most valued customers according to the revenues
-</br>
-and executive team can easily select which year, state or store the want to have insights about and click on it\them
-</br>
 ## Tableau Dashboard 
 ![Dashboard 1](https://user-images.githubusercontent.com/94745919/235969946-6c4f1baa-9a3a-4584-b9c0-61f06cbef167.png)
 </br>
