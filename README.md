@@ -25,10 +25,14 @@ the dashboard answers theses questions:
 ## Tableau Dashboard 
 ![Dashboard 1](https://user-images.githubusercontent.com/94745919/235969946-6c4f1baa-9a3a-4584-b9c0-61f06cbef167.png)
 </br>
-As the Excel dashboard it answers the same questions but with more visually attractive, more clear visualization and give more dynamical
+As the Excel dashboard it answers the same questions but with more visually attractive, more clear visualization,give more dynamical and give more details about the comapay status 
 </br>
-**the executive team the top N customers\salers** *Not fixed as the Excel dashboard* 
-</br>
+Like the Excel dashboard it also answers:
+* the number of orders the company made in each year 
+* the number of customer the company have\gained yearly 
+* the total unites sold
+* and the executive team the top (N) customers\salers *Not fixed as the Excel dashboard* 
+
 Dashboard Tableau puplic link :
 </br>
 🔗:https://public.tableau.com/app/profile/abdelrhaman.mahmoud.sadek/viz/BikesCompanyDashboard/Dashboard1#1
