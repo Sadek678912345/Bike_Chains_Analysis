@@ -20,6 +20,7 @@ the dashboard answers theses questions:
 * Which category is more sold than others 
 * Who are the top 10 salers to make revenue  to the company 
 * Who are the 10 most valued customers according to the revenues
+</br>
 and executive team can easily select which year, state or store the want to have insights about and click on it\them
 ## Tableau Dashboard 
 ![Dashboard 1](https://user-images.githubusercontent.com/94745919/235969946-6c4f1baa-9a3a-4584-b9c0-61f06cbef167.png)
