@@ -1,5 +1,5 @@
 # Bike_Chains_Analysis
-Data Analysis
+Data Analysis with buliding an excutive dashboard with Excel and Tableau 
 ## Description
 The goal of this project is to create an executive interactive dashboard that analyzes the data from 2016 to 2018 and gives insights into the data that help in decision-making which makes the company more profitable 
 </br>
