@@ -28,5 +28,8 @@ the dashboard answers theses questions:
 As the Excel dashboard it answers the same questions but with more visually attractive, more clear visualization and give more dynamical
 </br>
 **the executive team the top N customers\salers** *Not fixed as the Excel dashboard* 
-Dashboard link:https://public.tableau.com/app/profile/abdelrhaman.mahmoud.sadek/viz/BikesCompanyDashboard/Dashboard1#1
+</br>
+Dashboard Tableau puplic link :
+</br>
+🔗:https://public.tableau.com/app/profile/abdelrhaman.mahmoud.sadek/viz/BikesCompanyDashboard/Dashboard1#1
 
