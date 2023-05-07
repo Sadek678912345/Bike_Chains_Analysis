@@ -23,7 +23,7 @@ the dashboard answers theses questions:
 * Who are the top 10 salers to make revenue  to the company 
 * Who are the 10 most valued customers according to the revenues
 ## Tableau Dashboard 
-![Dashboard 1](https://user-images.githubusercontent.com/94745919/235969946-6c4f1baa-9a3a-4584-b9c0-61f06cbef167.png)
+[embed]https://github.com/Abdelrhman-Sadek/Bike_Chain_Stores_Analysis/blob/main/Tableau%20Dashboard/TableauDashboard.pdf[/embed]
 </br>
 As the Excel dashboard it answers the same questions but with more visually attractive, more clear visualization,give more dynamical and give more details about the comapay status 
 </br>
